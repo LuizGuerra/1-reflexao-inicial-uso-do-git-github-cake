@@ -20,8 +20,8 @@ Assim, vamos implementar o Mars Rover, cujo enunciado está colocado no moodle. 
    * é natural que surjam dúvidas sobre o uso do git/github, ambiente, interpretação, e assim por diante. Compartilhe suas dúvidas no Slack e vamos trabalhar cooperativamente.
    * Material de apoio sobre Git e Github:
       * [Livro do Git](https://git-scm.com/book/en/v2) - referência completa sobre git (com alguma coisa sobre github);
-      * [Tutorial](http://rogerdudler.github.io/git-guide/index.pt_BR.html) sobre Git e Github - um tutorial bem básico e inicial;
-      * [Guias do Github](https://guides.github.com/) - várias dicas de como usar o Github. [Este é outro guia](http://rogerdudler.github.io/git-guide/) interessante.
+      * [Tutorial](http://rogerdudler.github.io/git-guide/index.pt_BR.html) sobre Git e Github - um tutorial bem básico e inicial. [Este é outro guia](https://www.vogella.com/tutorials/Git/article.html) interessante;
+      * [Guias do Github](https://guides.github.com/) - várias dicas de como usar o Github.
 
 **Enunciado do Mars Rover**
 
