@@ -24,6 +24,12 @@ public class App {
             return false;
         }
 
+        List<String> list = Arrays.asList(new String[]{"N", "S", "E", "W"});
+        if (!list.contains(rover.getFacingCoordinate())){
+            System.out.println("Rover facing coordinate invalid!");
+            return false;
+        }
+
         return true;
     }
 }

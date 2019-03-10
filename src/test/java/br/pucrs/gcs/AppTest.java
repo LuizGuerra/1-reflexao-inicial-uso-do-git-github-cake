@@ -26,6 +26,16 @@ class AppTest {
         assertFalse(initialPositionValid);
     }
 
+    @Test
+    void validateFacingCoordinateInvalid() {
+        Plateau plateau = new Plateau(5, 5);
+        Rover rover = new Rover(5,2,"INVALID");
+
+        Boolean facingCoordinateValid = new App().validateInitialPosition(plateau, rover);
+
+        assertFalse(facingCoordinateValid );
+    }
+
 
     @Test
     void validateInitialPositionValid() {
